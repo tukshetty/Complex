@@ -1,4 +1,4 @@
-#Complex number Operations
+# Complex number Operations
 Considering python did not have inbuilt module for complex number operations (cmath), a new module is created for the same.
 main.py file consists of the main functionality module.
   A class for all the Imaginary Opeations is created as 'ImagOP'and the required functionalities are added accordingly.

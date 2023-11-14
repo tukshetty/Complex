@@ -5,7 +5,7 @@ Addition : testAdd ; Subtraction : testSub ; Multiplication: testMul; Division :
 Modulus : TestMod; Conjugate : testConj ; Phase : testPhase 
 An example complex numbers, comp1 = 2+3i and comp2 = 1+4i is used for verification
 """
-from Imaginary import ImagOp
+from main import ImagOp
 import unittest
 import cmath
 
